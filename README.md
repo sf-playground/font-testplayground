@@ -1,2 +1,2 @@
-# font-tests
+# font-testplayground
 Font testing playground
